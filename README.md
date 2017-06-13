@@ -130,4 +130,8 @@ Here's a [link to my video result](./videos_output/project_video.mp4)
 
 The current lane detection algorithm  work well for the project video "project_video.mp4", in which the lanes are clealy visible and mark, but the algorithm fail when it run against videos with heavy shade/shadow on the roads and sharp curves.
 
+<<<<<<< HEAD
 The algorithm can be improved by expiermenting with other color spaces such as LAB and LUV to reduce shadows and return high lanes contrast. Base on my researches, I learn that B channel of LAB might work well in picking up yellow lanes, and L channel from LUV might works well to pick up white lanes, and both without the shadow noise that comes with S channel of HSV.
+=======
+The algorithm can be improved by expiermenting with other color spaces such as LAB and LUV to reduce shadows and return high lanes contrast. Base on my researches, I learn that B channel of LAB might work well in picking up yellow lanes, and L channel from LUV might works well to pick up white lanes, and both without the shadow noise that comes with S channel of HSV.
+>>>>>>> 07f5bf6a32c0c6aceb818060aa367f4134ccf649
