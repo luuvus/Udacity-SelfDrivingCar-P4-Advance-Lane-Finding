@@ -1,15 +1,3 @@
-Jupyter NotebookLogout project_writeup Last Checkpoint: 32 minutes ago (unsaved changes) Python 3
-Python 3 Trusted
-File
-Edit
-View
-Insert
-Cell
-Kernel
-Widgets
-Help
-
-
 ## Advanced Lane Finding Project
 ​
 ---
